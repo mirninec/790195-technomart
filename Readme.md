@@ -2,10 +2,10 @@
 
 * Студент: [Алексей Казейкин](https://up.htmlacademy.ru/htmlcss/21/user/790195).
 * Наставник: [Денис Байдаров](https://up.htmlacademy.ru/htmlcss/21/user/7956).
-
+<-- Тестовый комментарий для закрепления навыка коммита через редактор Atom -->
 ---
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>_ 
+_Не удаляйте и не обращайте внимание на файлы:_<br>_
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
