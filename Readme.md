@@ -1,19 +1,11 @@
 # Личный проект «Техномарт»
 
 * Студент: [Алексей Казейкин](https://up.htmlacademy.ru/htmlcss/21/user/790195).
-<<<<<<< HEAD
 * Наставник: [Денис Байдаров](https://up.htmlacademy.ru/htmlcss/21/user/7956).
 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>_ 
-=======
-* Наставник: [Денис Байдаров](https://up.htmlacademy.ru/htmlcss/21/user/7956)..
-
----
-
-_Не удаляйте и не обращайте внимание на файлы:_<br><br>
->>>>>>> a34083950f5a9773992a028794631203ea0ee12f
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
